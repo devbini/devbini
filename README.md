@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20%20%20%20%20👋&fontAlignY=38&fontAlign=30&fontColor=0B0B61&fontSize=70&desc=ChanBin's%20GitHub%20Profile&descSize=24&descAlignY=56&descAlign=22)
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoonsom%2Fhit-counter&count_bg=%2379C83D&title_bg=%237C5B37&icon=&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
   
 # ✍️ About
 **안녕하세요!** VR, AR 프로그램을 개발 해 온 개발자 김찬빈입니다! <br>
@@ -37,7 +38,6 @@
 
 <br><br>
 # :running: Solving
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cong8685)](https://solved.ac/cong8685/)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noonsom&show_icons=true&theme=dark)
 </div>
