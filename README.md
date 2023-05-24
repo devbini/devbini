@@ -38,6 +38,5 @@
 
 <br><br>
 # :running: Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cong8685)](https://solved.ac/cong8685/)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noonsom&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devbini)](https://solved.ac/devbini/)<br>
 </div>
