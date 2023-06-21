@@ -3,6 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devbini/) 
 [![Tistory Badge](https://img.shields.io/badge/Develop%20Blog-FF6000?style=flat&logo=tistory&logoColor=white)](https://devbini.tistory.com/)
 [![Notion Badge](https://img.shields.io/badge/Experience%20Page-000000?style=flat&logo=notion&logoColor=white)](https://devbini.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoonsom%2Fhit-counter&count_bg=%2379C83D&title_bg=%237C5B37&icon=&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### ✍️ Who Am I?
 
