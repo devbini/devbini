@@ -10,9 +10,9 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devbini">
 
 - :green_heart: My Name is Chanbin Kim, I want to make a program that helps everyone.
-- 🧑‍💻 I’m currently learning `MySQL`, `Unreal`, `Unity`
-- 🏠 My hometown is Suwon, Gyeonggi-do in Korea
-- 🔐 My majoring is Convergence Security
+- 🧑‍💻 Learning `MySQL`, `Unreal`, `Unity`
+- 🏠 Home : Suwon, Gyeonggi-do in Korea
+- 🔐 Major : Convergence Security
 
 ### 👑 Experience
 
