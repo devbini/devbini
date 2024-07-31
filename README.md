@@ -1,4 +1,4 @@
-# Chanbin 🖐️
+# Chanbeen 🖐️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flqld86851@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devbini/) 
 [![Tistory Badge](https://img.shields.io/badge/Develop%20Blog-FF6000?style=flat&logo=tistory&logoColor=white)](https://devbini.tistory.com/)
