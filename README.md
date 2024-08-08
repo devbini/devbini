@@ -9,7 +9,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devbini">
 
-- :green_heart: My Name is Chanbin Kim, I want to make a program that helps everyone.
+- :green_heart: My Name is Chanbeen Kim, I want to make a program that helps everyone.
 - 🧑‍💻 Learning `MySQL`, `Unreal`, `Unity`
 - 🏠 Home : Suwon, Gyeonggi-do in Korea
 - 🔐 Major : Convergence Security
