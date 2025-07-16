@@ -28,7 +28,7 @@
 | 고등 | 수원정보과학고 | 디지털 네트워크 | 졸업 |
 | 학사 | 동국대학교 | 융합보안학과 | 재학 (3학년) |
 
-## ❤️ Contect
+## ❤️ Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:flqld86851@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devbini/) 
 [![Tistory Badge](https://img.shields.io/badge/Old_Blog-FF6000?style=flat&logo=tistory&logoColor=white)](https://devbini.tistory.com/)
@@ -43,7 +43,7 @@
 |**Frontend**|**React**, Next.js, Vite.js  |
 |**Infra**|**AWS**, **Docker**, **Jenkins**, Git-Action, **Nginx**  |
 |**Database**|**MySQL**, PostgreSQL, MariaDB, Microsoft SQL Server, Redis|
-|**Auther**|**Git**/GitHub/GitLab, Unreal/Unity, **Figma**, Etc...|
+|**Author**|**Git**/GitHub/GitLab, Unreal/Unity, **Figma**, Etc...|
   
 ## 💫 Status
 ![Devbini's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbini&show_icons=true&bg_color=white)
@@ -55,3 +55,6 @@
   height="300"
 />
 </a>
+
+---
+> 감사합니다! 언제든지 커피챗도 언제나 환영입니다. ☕
