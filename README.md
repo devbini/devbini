@@ -37,7 +37,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=devbini)](https://solved.ac/devbini)
 
 ## 📜 Certifications & Courses
-| 자격증 | 발급 기관 | 취득일 |
+| 자격증 & 수료 | 인증 기관 | 취득일 |
 |--------|----------|--------|
 | 리눅스마스터 2급 | 정보통신기술자격검정 | 2025.06 |
 | Application Development using Microservices and Serverless | IBM | 2025.01 |
