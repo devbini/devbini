@@ -32,9 +32,9 @@
 ## 🛠 Personal Projects
 | 구분 | 기간 | 타이틀 | 내용 | 배포 상태 | Github |
 |------|------|------|----|----|---|
-| Extension | 2025.03 ~ Current | Just Rubber Duck! | 러버덕 디버깅을 위한 VisualStudio 확장 프로그램 | ✅ 운영 중 | [Repo](https://github.com/devbini/just-rubber-duck) |
-| Web | 2024.04 ~ Current | ToDay Menu | 사내 구내식당 메뉴 미리보기 서비스 | ✅ 운영 중 | [Repo](https://github.com/devbini/today-menu) |
-| App | 2023 | K-WPU | 한국 재직자전형 입시 준비 프로그램 | ❌ 운영 종료 | [Repo](https://github.com/devbini/Korean-Incumbent-Univ) |
+| Plugin | 2025.03 ~ Current | Just Rubber Duck | 러버덕 디버깅을 위한 VisualStudio 확장 프로그램 | ✅ 운영중 | [Repo](https://github.com/devbini/just-rubber-duck) |
+| Web | 2024.04 ~ Current | ToDay Menu | 사내 구내식당 메뉴 미리보기 서비스 | ✅ 운영중 | [Repo](https://github.com/devbini/today-menu) |
+| App | 2023 | K-GPA | 한국 재직자전형 입시 준비 프로그램 | ❌ 운영종료 | [Repo](https://github.com/devbini/Korean-Incumbent-Univ) |
 
 
 ## 🧑‍🎓 Education
