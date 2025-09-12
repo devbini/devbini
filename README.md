@@ -46,6 +46,7 @@
 ## 📜 Certifications & Courses
 | 자격증 & 수료 | 인증 기관 | 취득일 |
 |--------|----------|--------|
+| 정보처리기사 | 한국산업인력공단 | 2025.09 |
 | 리눅스마스터 2급 | 정보통신기술자격검정 | 2025.06 |
 | Application Development using Microservices and Serverless | IBM | 2025.01 |
 | AWS Certified Cloud Practitioner | Amazon Web Services | 2024.09 |
