@@ -23,14 +23,15 @@
 ## ☁️ Effect
 | 구분 | 기간 | 내용 | 비고 |
 |:---:|---|---|---|
-| 논문 | 2024.12.31 | AWS 소규모 인스턴스의 보안 솔루션이 웹 서비스 성능에 미치는 영향 | [**KCI 등재**-(한국테러학회보 18.4)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003284473) |
-| 컨퍼런스 발표 | 2024.12.06 | 유명한 기술이 정답인가? | TeoConf 2024 |
+| 논문 | 2025.12.31 | AWS 소규모 인스턴스의 보안 솔루션이 웹 서비스 성능에 미치는 영향 | [**KCI 등재**-(한국테러학회보 18.4)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003284473) |
+| 컨퍼런스 발표 | 2025.12.06 | 유명한 기술이 정답인가? | TeoConf 2025 |
 | 대외활동 | 2025.07 ~ Current | AWS Cloud Clubs at DGU | DevRel (Core Members) |
 
 
 ## 🤝 Open Source Contributions
 | Project | Pull Request | Summary | Status |
 |:---:|:---|:---|:---:|
+} **Spaine** | **[#2](https://github.com/NARUBROWN/Spine/pull/2)** | 신규 GO 기반 서버 프레임워크 내 우아한 종료 기능 신규 개발 | **Merge** |
 | **Argo CD** | **[#25906](https://github.com/argoproj/argo-cd/pull/25906)** | Core 모드에서 외부 Redis 사용을 위한 `ARGOCD_REDIS_SERVER` 기능 신규 개발 | 🔍 Under Review |
 | **Lettuce** | **[#3387](https://github.com/redis/lettuce/pull/3387)** | Cluster Redis 내 MGET 호출 시 GET 명령어로의 최적화 로직 신규 개발 | 🔍 Under Review |
 
@@ -48,8 +49,8 @@
 ## 🏆 Awards
 | 구분 | 기간 | 내용 | 역할 |
 |------|------|------|----|
-| **대상** | 2024.12 | 웨어밸리, AI 활용 경진대회 | [폐쇄망 코드리뷰 봇](https://github.com/devbini/git-svn-reviewbot) |
-| **최우수상** | 2024.11 | 동국대학교 미래융합대학장, 미래융합 학술제 | 논문 최우수 |
+| **대상** | 2025.12 | 웨어밸리, AI 활용 경진대회 | [폐쇄망 코드리뷰 봇](https://github.com/devbini/git-svn-reviewbot) |
+| **최우수상** | 2025.11 | 동국대학교 미래융합대학장, 미래융합 학술제 | 논문 최우수 |
 | **우수상** | 2020.10 | 국토교통부, 경관심의 공모전 | Unreal Engine & VR 개발 |
 
 
@@ -63,6 +64,7 @@
 ## 📜 Certifications & Courses
 | 자격증 & 수료 | 인증 기관 | 취득일 |
 |--------|----------|--------|
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | 2026.01 |
 | 정보처리기사 | 한국산업인력공단 | 2025.09 |
 | 리눅스마스터 2급 | 정보통신기술자격검정 | 2025.06 |
 | Application Development using Microservices and Serverless | IBM | 2025.01 |
