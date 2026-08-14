@@ -15,7 +15,7 @@
 ## 🏢 Experience
 | 기간 | 소속 | 직책 | 역할 |
 |------|------|-----------|-------|
-| 2025.08 ~ Current | 코드잇 (Sprint 9기) | Mentor (**Freelancer**) | FullStack Mentor |
+| 2025.08 ~ Current | 코드잇 | Mentor (**Freelancer**) | FullStack Mentor |
 | 2025.04 ~ Current | 웨어밸리 | 선임 연구원 | FullStack & DevOps |
 | 2019.10 ~ 2025.03 | (주)코아텍 | 주임 | FullStack & DevOps |
 
