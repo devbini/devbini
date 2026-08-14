@@ -15,9 +15,9 @@
 ## 🏢 Experience
 | 기간 | 소속 | 직책 | 역할 |
 |------|------|-----------|-------|
-| 2025.08 ~ 2026.02 | 코드잇 (Sprint 9기) | Mentor (Freelancer) | FullStack Mentor |
+| 2025.08 ~ Current | 코드잇 (Sprint 9기) | Mentor (**Freelancer**) | FullStack Mentor |
 | 2025.04 ~ Current | 웨어밸리 | 선임 연구원 | FullStack & DevOps |
-| 2019.10 ~ 2025.04 | (주)코아텍 | 주임 | FullStack & DevOps |
+| 2019.10 ~ 2025.03 | (주)코아텍 | 주임 | FullStack & DevOps |
 
 
 ## ☁️ Effect
@@ -25,6 +25,7 @@
 |:---:|---|---|---|
 | 논문 | 2025.12.31 | AWS 소규모 인스턴스의 보안 솔루션이 웹 서비스 성능에 미치는 영향 | [**KCI 등재**-(한국테러학회보 18.4)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003284473) |
 | 컨퍼런스 발표 | 2025.12.06 | 유명한 기술이 정답인가? | TeoConf 2025 |
+| 특강 | 2026.03 | Kubernetes 무중단 배포 실습 특강 | 메타코드 현직자 특강 |
 | 대외활동 | 2025.07 ~ Current | AWS Cloud Clubs at DGU | DevRel (Core Members) |
 
 
@@ -41,7 +42,8 @@
 |:---:|:---:|:---|:---|:---|:---:|
 | **팀** | Web | 2024.10 ~ Current | **SeSAC 웹 플랫폼 개발** | Backend & DevOps Lead / 인프라 설계 및 배포 자동화 | ✅ 개발중 |
 | **개인** | Plugin | 2025.03 ~ Current | **Just Rubber Duck** | [VS 확장 프로그램 / 러버덕 디버깅 툴 개발](https://github.com/devbini/just-rubber-duck) | ✅ 운영중 |
-| **개인** | Web | 2024.04 ~ Current | **ToDay Menu** | [FullStack / 사내 식당 메뉴 및 리뷰 웹 서비스](https://github.com/devbini/today-menu) | ✅ 운영중 |
+| **개인** | Web/Serverless | 2025.07 ~ Current | **AWS Cloud Clubs at DGU 공식 사이트** | 기획/프론트/백/배포 1인 담당 / 서버리스 아키텍처 개발 | ❌ 종료 |
+| **개인** | Web | 2024.04 ~ Current | **ToDay Menu** | [FullStack / 사내 식당 메뉴 및 리뷰 웹 서비스](https://github.com/devbini/today-menu) | ❌ 종료 |
 | **팀** | Web | 2024.08 ~ 2024.10 | **영캠프(불교 축제) 공식 웹 개발** | Backend & DevOps Lead / 트래픽 대응 및 서버 운영 | ❌ 종료 |
 | **개인** | App | 2023.01 ~ 2023.12 | **K-GPA** | [FullStack / 재직자전형 입시 가이드 앱 개발](https://github.com/devbini/Korean-Incumbent-Univ) | ❌ 종료 |
 
